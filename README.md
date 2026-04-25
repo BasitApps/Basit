@@ -46,7 +46,7 @@ Basit = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariiammaysara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9&icon_color=A9FEF7&count_private=true" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BasitApps&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9&icon_color=A9FEF7&count_private=true" height="160"/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mariiammaysara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9&langs_count=4" height="160"/>
 
