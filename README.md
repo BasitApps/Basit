@@ -26,7 +26,7 @@
 ### About
 
 ```python
-mariam = {
+Basit = {
     "role"     : "Full-Stack AI Engineer",
     "focus"    : ["Production ML", "RAG Pipelines", "LLMs", "Full-Stack AI Apps"],
     "status"   : "Available for opportunities",
